@@ -1,0 +1,30 @@
+
+* {
+    padding:0; 
+    margin:0; 
+    
+} 
+
+body {
+    text-align: center;
+}
+
+form h1 {
+    font-size:24px; 
+    text-align: center; 
+    color:rgba(125, 37, 207, 0.613)
+}  
+
+ button {
+    width: 150px;
+    height: 40px;
+    cursor: pointer;
+    border: 1px solid purple;;
+    border-radius: 8px;
+    background-color: #edcff3;
+    font-size: 16px; 
+    margin-top:10px;
+    margin:5px; 
+    color:rgba(85, 4, 160, 0.613);
+}
+
